@@ -157,7 +157,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/underground-hard-rock-drills",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:09Z"
+    "last_seen_utc": "2026-07-12T16:07:11Z"
   },
   {
     "power": "Hybrid",
@@ -205,7 +205,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/wheel-loaders",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:00Z"
+    "last_seen_utc": "2026-07-12T16:07:05Z"
   },
   {
     "power": "Hybrid",
@@ -237,7 +237,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:04Z"
+    "last_seen_utc": "2026-07-12T16:07:07Z"
   },
   {
     "power": "Hybrid",
@@ -269,7 +269,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:15:58Z"
+    "last_seen_utc": "2026-07-12T16:07:01Z"
   },
   {
     "power": "Hybrid",
@@ -317,7 +317,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-quarry/site",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:44:11Z"
+    "last_seen_utc": "2026-07-12T16:07:09Z"
   },
   {
     "power": "Hybrid",
@@ -429,7 +429,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/forestry",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:21:13Z"
+    "last_seen_utc": "2026-07-12T16:07:02Z"
   },
   {
     "power": "Hybrid",
@@ -461,7 +461,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-mining",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:52:20Z"
+    "last_seen_utc": "2026-07-12T16:07:12Z"
   },
   {
     "power": "Hybrid",
@@ -1005,10 +1005,10 @@
     "model_number": "html",
     "link": "https://www.volvoce.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:04Z"
+    "last_seen_utc": "2026-07-12T16:08:07Z"
   },
   {
-    "power": "Hybrid",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -1021,7 +1021,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en/usa/usa.html",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:08Z"
+    "last_seen_utc": "2026-07-12T16:08:13Z"
   },
   {
     "power": "",
@@ -1325,7 +1325,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/material-handling/material-handling-4672315",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:24Z"
+    "last_seen_utc": "2026-07-12T16:08:38Z"
   },
   {
     "power": "",
@@ -1536,7 +1536,7 @@
     "last_seen_utc": "2026-06-28T16:22:36Z"
   },
   {
-    "power": "Hybrid",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -1549,7 +1549,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en/usa/latest-news/latest-news.html",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:23Z"
+    "last_seen_utc": "2026-07-12T16:08:36Z"
   },
   {
     "power": "",
@@ -1565,7 +1565,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/disclaimer/contact-3781985",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:53:45Z"
+    "last_seen_utc": "2026-07-12T16:08:33Z"
   },
   {
     "power": "",
@@ -1581,7 +1581,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/about-liebherr/liebherr-worldwide/liebherr-worldwide-3877672",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:53:53Z"
+    "last_seen_utc": "2026-07-12T16:08:32Z"
   },
   {
     "power": "",
@@ -1613,23 +1613,23 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/about-liebherr/services/sales-and-service-partners/sales-and-service-3781939",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:32Z"
+    "last_seen_utc": "2026-07-12T16:08:35Z"
   },
   {
-    "power": "Hydrogen",
+    "power": "Hybrid",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
     "engine_power_kw": "",
     "blade_size": "",
     "bucket_size_m3": "",
-    "type": "Excavator",
+    "type": "Wheel loader",
     "year_of_release": "",
     "development_status": "",
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/news/news-and-press-releases/news-and-press-releases-3782184",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:31Z"
+    "last_seen_utc": "2026-07-12T16:08:37Z"
   },
   {
     "power": "Hybrid",
@@ -1645,7 +1645,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/tower-cranes/tower-cranes-4356108",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:27Z"
+    "last_seen_utc": "2026-07-12T16:08:42Z"
   },
   {
     "power": "Hybrid",
@@ -1661,7 +1661,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/maritime-cranes/liebherr-maritime-4433440",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:22:48Z"
+    "last_seen_utc": "2026-07-12T16:08:38Z"
   },
   {
     "power": "",
@@ -1693,7 +1693,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/careers/professionals-4294648",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:22:44Z"
+    "last_seen_utc": "2026-07-12T16:08:43Z"
   },
   {
     "power": "",
@@ -1741,7 +1741,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/deep-foundation/deep-foundation-4424773",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:25Z"
+    "last_seen_utc": "2026-07-12T16:08:36Z"
   },
   {
     "power": "Hydrogen",
@@ -1805,7 +1805,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/careers/students-4294676",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:22:41Z"
+    "last_seen_utc": "2026-07-12T16:08:40Z"
   },
   {
     "power": "",
@@ -1821,7 +1821,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/careers/contact-4294769",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:32Z"
+    "last_seen_utc": "2026-07-12T16:08:38Z"
   },
   {
     "power": "",
@@ -1837,7 +1837,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_privacy",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:29Z"
+    "last_seen_utc": "2026-07-12T16:08:43Z"
   },
   {
     "power": "Hybrid",
@@ -1885,10 +1885,10 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_contact",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:25Z"
+    "last_seen_utc": "2026-07-12T16:08:39Z"
   },
   {
-    "power": "Hybrid",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -1901,7 +1901,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/start-page-3782471",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:25Z"
+    "last_seen_utc": "2026-07-12T16:08:35Z"
   },
   {
     "power": "Battery",
@@ -1917,7 +1917,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/mining-equipment/mining-equipment-4707223",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:27Z"
+    "last_seen_utc": "2026-07-12T16:08:32Z"
   },
   {
     "power": "",
@@ -1933,7 +1933,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/products/solutions/digital-solutions/digital-solutions-3782017",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:45:35Z"
+    "last_seen_utc": "2026-07-12T16:08:34Z"
   },
   {
     "power": "",
@@ -1949,7 +1949,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/cross-entry-point/en-us-us/corp_accessibility",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:30Z"
+    "last_seen_utc": "2026-07-12T16:08:36Z"
   },
   {
     "power": "",
@@ -1981,7 +1981,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/mobile-and-crawler-cranes/mobile-and-crawler-cranes-4407715",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:45:40Z"
+    "last_seen_utc": "2026-07-12T16:08:37Z"
   },
   {
     "power": "",
@@ -2957,7 +2957,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:35Z"
+    "last_seen_utc": "2026-07-12T16:08:44Z"
   },
   {
     "power": "Battery",
@@ -2973,7 +2973,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-cz",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:34Z"
+    "last_seen_utc": "2026-07-12T16:08:54Z"
   },
   {
     "power": "Battery",
@@ -3021,7 +3021,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-sa",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:39Z"
+    "last_seen_utc": "2026-07-12T16:08:46Z"
   },
   {
     "power": "Battery",
@@ -3069,7 +3069,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-cd",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:43:45Z"
+    "last_seen_utc": "2026-07-12T16:08:48Z"
   },
   {
     "power": "Battery",
@@ -3085,7 +3085,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-ph",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:30Z"
+    "last_seen_utc": "2026-07-12T16:08:48Z"
   },
   {
     "power": "Battery",
@@ -3117,7 +3117,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/es-es",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:12:58Z"
+    "last_seen_utc": "2026-07-12T16:08:51Z"
   },
   {
     "power": "Battery",
@@ -3293,7 +3293,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-et",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:33Z"
+    "last_seen_utc": "2026-07-12T16:08:54Z"
   },
   {
     "power": "Battery",
@@ -3309,7 +3309,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-ie",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:35Z"
+    "last_seen_utc": "2026-07-12T16:08:51Z"
   },
   {
     "power": "Battery",
@@ -3341,7 +3341,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-lt",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:13:03Z"
+    "last_seen_utc": "2026-07-12T16:08:52Z"
   },
   {
     "power": "Battery",
@@ -3357,7 +3357,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/fr-ml",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:38Z"
+    "last_seen_utc": "2026-07-12T16:08:45Z"
   },
   {
     "power": "Battery",
@@ -3373,7 +3373,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-me",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:23Z"
+    "last_seen_utc": "2026-07-12T16:08:54Z"
   },
   {
     "power": "Battery",
@@ -3389,7 +3389,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-fi",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:47Z"
+    "last_seen_utc": "2026-07-12T16:08:50Z"
   },
   {
     "power": "Battery",
@@ -3453,7 +3453,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:50Z"
+    "last_seen_utc": "2026-07-12T16:08:58Z"
   },
   {
     "power": "Hydrogen",
@@ -3933,7 +3933,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/#main",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:13:25Z"
+    "last_seen_utc": "2026-07-12T16:09:18Z"
   },
   {
     "power": "Hydrogen",
@@ -3949,7 +3949,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-gb/news",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:09Z"
+    "last_seen_utc": "2026-07-12T16:09:20Z"
   },
   {
     "power": "Hydrogen",
@@ -4397,7 +4397,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/waste-and-recycling/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:24:14Z"
+    "last_seen_utc": "2026-07-12T16:09:35Z"
   },
   {
     "power": "Hydrogen",
@@ -4445,7 +4445,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:29Z"
+    "last_seen_utc": "2026-07-12T16:09:42Z"
   },
   {
     "power": "",
@@ -4589,7 +4589,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx255lc-7",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:06Z"
+    "last_seen_utc": "2026-07-12T16:10:06Z"
   },
   {
     "power": "",
@@ -4893,7 +4893,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx50z",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:07:09Z"
+    "last_seen_utc": "2026-07-12T16:10:25Z"
   },
   {
     "power": "",
@@ -4941,7 +4941,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/news",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:17Z"
+    "last_seen_utc": "2026-07-12T16:10:29Z"
   },
   {
     "power": "",
@@ -4989,7 +4989,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/products/wheel-excavators",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:57Z"
+    "last_seen_utc": "2026-07-12T16:10:47Z"
   },
   {
     "power": "",
@@ -5037,7 +5037,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx230lc-9",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:41Z"
+    "last_seen_utc": "2026-07-12T16:11:09Z"
   },
   {
     "power": "",
@@ -5085,7 +5085,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx27z",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:56:18Z"
+    "last_seen_utc": "2026-07-12T16:10:58Z"
   },
   {
     "power": "",
@@ -5181,7 +5181,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/news/2025-07-04-Demolition-of-the-Former-Tesla-Site-in-the-Czech-Republic-Carried-Out-Using-a-Develon-DX380DM-7-Excavator",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:46:31Z"
+    "last_seen_utc": "2026-07-12T16:10:33Z"
   },
   {
     "power": "",
@@ -5277,7 +5277,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dl280-7-waste-loader",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:42Z"
+    "last_seen_utc": "2026-07-12T16:10:51Z"
   },
   {
     "power": "",
@@ -5437,7 +5437,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:05Z"
+    "last_seen_utc": "2026-07-12T16:11:17Z"
   },
   {
     "power": "",
@@ -5453,7 +5453,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/product/support/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:15Z"
+    "last_seen_utc": "2026-07-12T16:11:22Z"
   },
   {
     "power": "",
@@ -5485,7 +5485,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/es",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:07Z"
+    "last_seen_utc": "2026-07-12T16:11:34Z"
   },
   {
     "power": "",
@@ -5501,7 +5501,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/view?productsSeq=616",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:05Z"
+    "last_seen_utc": "2026-07-12T16:11:26Z"
   },
   {
     "power": "",
@@ -5517,7 +5517,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/overview/attachment/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:09Z"
+    "last_seen_utc": "2026-07-12T16:11:33Z"
   },
   {
     "power": "",
@@ -5533,7 +5533,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/agency/domestic?type=sales",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:31Z"
+    "last_seen_utc": "2026-07-12T16:11:24Z"
   },
   {
     "power": "",
@@ -5549,7 +5549,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/agency/domestic",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:13Z"
+    "last_seen_utc": "2026-07-12T16:11:29Z"
   },
   {
     "power": "",
@@ -5581,7 +5581,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/view?productsSeq=573",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:20Z"
+    "last_seen_utc": "2026-07-12T16:11:21Z"
   },
   {
     "power": "",
@@ -5597,7 +5597,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/SL/list",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:32Z"
+    "last_seen_utc": "2026-07-12T16:11:19Z"
   },
   {
     "power": "",
@@ -5629,7 +5629,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/LD/list",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:10Z"
+    "last_seen_utc": "2026-07-12T16:11:18Z"
   },
   {
     "power": "",
@@ -5645,7 +5645,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/view?productsSeq=969",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:11Z"
+    "last_seen_utc": "2026-07-12T16:11:27Z"
   },
   {
     "power": "",
@@ -5661,7 +5661,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/educational/academy/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:11Z"
+    "last_seen_utc": "2026-07-12T16:11:29Z"
   },
   {
     "power": "",
@@ -5677,7 +5677,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/agency/overseas?type=sales_agcy",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:57:16Z"
+    "last_seen_utc": "2026-07-12T16:11:25Z"
   },
   {
     "power": "Hydrogen",
@@ -5693,7 +5693,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:30Z"
+    "last_seen_utc": "2026-07-12T16:11:20Z"
   },
   {
     "power": "",
@@ -5709,7 +5709,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/inov/safety/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:25Z"
+    "last_seen_utc": "2026-07-12T16:11:29Z"
   },
   {
     "power": "",
@@ -5741,7 +5741,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/privacy/policy",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:48:58Z"
+    "last_seen_utc": "2026-07-12T16:11:19Z"
   },
   {
     "power": "",
@@ -5773,7 +5773,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/agency/overseas",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:09Z"
+    "last_seen_utc": "2026-07-12T16:11:25Z"
   },
   {
     "power": "",
@@ -5821,7 +5821,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/overview/parts/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:21Z"
+    "last_seen_utc": "2026-07-12T16:11:23Z"
   },
   {
     "power": "",
@@ -5837,7 +5837,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/ask/questions/list",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:10Z"
+    "last_seen_utc": "2026-07-12T16:11:27Z"
   },
   {
     "power": "",
@@ -5869,7 +5869,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/SP/list",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:22Z"
+    "last_seen_utc": "2026-07-12T16:11:22Z"
   },
   {
     "power": "",
@@ -5933,7 +5933,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:36Z"
+    "last_seen_utc": "2026-07-12T16:11:37Z"
   },
   {
     "power": "Hydrogen",
@@ -5965,7 +5965,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/cases/list-17/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:23Z"
+    "last_seen_utc": "2026-07-12T16:11:49Z"
   },
   {
     "power": "Hydrogen",
@@ -5981,7 +5981,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/petroleum_equipment/fracking_unit/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:23Z"
+    "last_seen_utc": "2026-07-12T16:11:41Z"
   },
   {
     "power": "Hydrogen",
@@ -6077,7 +6077,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/privacy/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:20Z"
+    "last_seen_utc": "2026-07-12T16:11:56Z"
   },
   {
     "power": "Hydrogen",
@@ -6109,7 +6109,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/electric_forklift/electric_forklift1/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:24Z"
+    "last_seen_utc": "2026-07-12T16:11:39Z"
   },
   {
     "power": "Hydrogen",
@@ -6141,7 +6141,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/excavator/mini_excavator/109/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:12:20Z"
+    "last_seen_utc": "2026-07-12T16:11:46Z"
   },
   {
     "power": "Hydrogen",
@@ -6157,7 +6157,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/aerial_work_platform/scissorlift1/",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:25:55Z"
+    "last_seen_utc": "2026-07-12T16:11:51Z"
   },
   {
     "power": "Hydrogen",
@@ -6221,7 +6221,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/road_machinery/roller/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:18Z"
+    "last_seen_utc": "2026-07-12T16:11:57Z"
   },
   {
     "power": "Hydrogen",
@@ -6269,7 +6269,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/piling_machinery/rotary_drilling_rig/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:16Z"
+    "last_seen_utc": "2026-07-12T16:11:58Z"
   },
   {
     "power": "Hydrogen",
@@ -6429,7 +6429,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:40Z"
+    "last_seen_utc": "2026-07-12T16:12:06Z"
   },
   {
     "power": "Battery",
@@ -6493,7 +6493,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-detail-121046.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:21:16Z"
+    "last_seen_utc": "2026-07-12T16:12:28Z"
   },
   {
     "power": "Battery",
@@ -6621,7 +6621,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/aboutus/video.htm",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:38Z"
+    "last_seen_utc": "2026-07-12T16:12:31Z"
   },
   {
     "power": "Battery",
@@ -6701,7 +6701,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1875&erCatId=0&sanCatId=0",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:21:12Z"
+    "last_seen_utc": "2026-07-12T16:12:43Z"
   },
   {
     "power": "Battery",
@@ -6717,7 +6717,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/aboutus/news.htm",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:58:15Z"
+    "last_seen_utc": "2026-07-12T16:12:37Z"
   },
   {
     "power": "Battery",
@@ -6733,7 +6733,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1001000343&erCatId=0&sanCatId=0",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:49Z"
+    "last_seen_utc": "2026-07-12T16:12:46Z"
   },
   {
     "power": "",
@@ -6813,7 +6813,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/financial/financial-programmes.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:21:04Z"
+    "last_seen_utc": "2026-07-12T16:12:34Z"
   },
   {
     "power": "Battery",
@@ -6877,7 +6877,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1001000304&erCatId=0&sanCatId=0",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:58:07Z"
+    "last_seen_utc": "2026-07-12T16:12:14Z"
   },
   {
     "power": "Battery",
@@ -6973,7 +6973,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:06Z"
+    "last_seen_utc": "2026-07-12T16:13:32Z"
   },
   {
     "power": "Battery",
@@ -7005,7 +7005,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/sustainability/governance",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:07Z"
+    "last_seen_utc": "2026-07-12T16:13:42Z"
   },
   {
     "power": "Battery",
@@ -7021,7 +7021,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/products-solutions/merchandise",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:09Z"
+    "last_seen_utc": "2026-07-12T16:13:34Z"
   },
   {
     "power": "Battery",
@@ -7037,7 +7037,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/company/contact-us",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:48Z"
+    "last_seen_utc": "2026-07-12T16:13:41Z"
   },
   {
     "power": "Battery",
@@ -7053,7 +7053,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/company/contact-us",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:48:42Z"
+    "last_seen_utc": "2026-07-12T16:13:34Z"
   },
   {
     "power": "Battery",
@@ -7069,7 +7069,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/search?indexCatalogue=core-index&searchQuery=Terex",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:55Z"
+    "last_seen_utc": "2026-07-12T16:13:33Z"
   },
   {
     "power": "Battery",
@@ -7133,7 +7133,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/terms-and-privacy/linking",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:51:02Z"
+    "last_seen_utc": "2026-07-12T16:13:39Z"
   },
   {
     "power": "Battery",
@@ -7213,7 +7213,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/terms-and-privacy/cookie-notice",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:53Z"
+    "last_seen_utc": "2026-07-12T16:13:41Z"
   },
   {
     "power": "Battery",
@@ -7245,7 +7245,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/terms-and-privacy/preferences",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:59:04Z"
+    "last_seen_utc": "2026-07-12T16:13:35Z"
   },
   {
     "power": "Battery",
@@ -7293,7 +7293,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/company/suppliers",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:06Z"
+    "last_seen_utc": "2026-07-12T16:13:32Z"
   },
   {
     "power": "Battery",
@@ -7357,7 +7357,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/products-solutions",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:54Z"
+    "last_seen_utc": "2026-07-12T16:13:39Z"
   },
   {
     "power": "Hybrid",
@@ -7373,7 +7373,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/products-solutions/equipment",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:14:02Z"
+    "last_seen_utc": "2026-07-12T16:13:40Z"
   },
   {
     "power": "",
@@ -7389,7 +7389,7 @@
     "model_number": "html",
     "link": "http://www.xemc.com.cn/product/index/salenet.html",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:00:29Z"
+    "last_seen_utc": "2026-07-12T16:15:10Z"
   },
   {
     "power": "",
@@ -7405,7 +7405,7 @@
     "model_number": "html",
     "link": "http://www.xemc.com.cn/company/index/tec.html",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:23:33Z"
+    "last_seen_utc": "2026-07-12T16:15:08Z"
   },
   {
     "power": "Battery",
@@ -7421,7 +7421,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:26:36Z"
+    "last_seen_utc": "2026-07-12T16:16:02Z"
   },
   {
     "power": "Battery",
@@ -7437,7 +7437,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/E7S.shtml",
     "link_date": "",
-    "last_seen_utc": "2026-05-03T16:11:38Z"
+    "last_seen_utc": "2026-07-12T16:16:59Z"
   },
   {
     "power": "Battery",
@@ -7485,7 +7485,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/about/net-carbon-forest/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:34:07Z"
+    "last_seen_utc": "2026-07-12T16:16:31Z"
   },
   {
     "power": "",
@@ -7533,7 +7533,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/e-bus/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:12Z"
+    "last_seen_utc": "2026-07-12T16:16:47Z"
   },
   {
     "power": "",
@@ -7549,7 +7549,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/city-bus/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:06:17Z"
+    "last_seen_utc": "2026-07-12T16:17:12Z"
   },
   {
     "power": "Hybrid",
@@ -7581,7 +7581,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/contact/contact/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:27:20Z"
+    "last_seen_utc": "2026-07-12T16:16:09Z"
   },
   {
     "power": "",
@@ -7613,7 +7613,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/technology/industry-insights/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:35:05Z"
+    "last_seen_utc": "2026-07-12T16:16:24Z"
   },
   {
     "power": "",
@@ -7629,7 +7629,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/site-map/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:46Z"
+    "last_seen_utc": "2026-07-12T16:16:21Z"
   },
   {
     "power": "Hybrid",
@@ -7645,7 +7645,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/data-protection-rights-request/",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:33:39Z"
+    "last_seen_utc": "2026-07-12T16:17:52Z"
   },
   {
     "power": "Battery",
@@ -7677,7 +7677,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/service/service-contracts/overview/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:33:11Z"
+    "last_seen_utc": "2026-07-12T16:16:39Z"
   },
   {
     "power": "Battery",
@@ -7693,7 +7693,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/e-solution/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:27:09Z"
+    "last_seen_utc": "2026-07-12T16:16:06Z"
   },
   {
     "power": "",
@@ -7709,7 +7709,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/pressmedia/media-library/video/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:26:57Z"
+    "last_seen_utc": "2026-07-12T16:17:23Z"
   },
   {
     "power": "",
@@ -7725,7 +7725,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/airfield-buses/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:53Z"
+    "last_seen_utc": "2026-07-12T16:16:36Z"
   },
   {
     "power": "",
@@ -7773,7 +7773,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/cookie/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:53:13Z"
+    "last_seen_utc": "2026-07-12T16:16:28Z"
   },
   {
     "power": "",
@@ -7789,7 +7789,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/Van/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:34:24Z"
+    "last_seen_utc": "2026-07-12T16:16:42Z"
   },
   {
     "power": "",
@@ -7837,7 +7837,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/ZK6890HG.shtml",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:34:48Z"
+    "last_seen_utc": "2026-07-12T16:16:13Z"
   },
   {
     "power": "",
@@ -7917,7 +7917,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/investor/Investor.htm#item01",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:20Z"
+    "last_seen_utc": "2026-07-12T16:18:11Z"
   },
   {
     "power": "",
@@ -7933,7 +7933,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/investor/Investor.htm#item02",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:24Z"
+    "last_seen_utc": "2026-07-12T16:18:07Z"
   },
   {
     "power": "",
@@ -7949,7 +7949,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/about/Technology&Innovation.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:18Z"
+    "last_seen_utc": "2026-07-12T16:18:08Z"
   },
   {
     "power": "",
@@ -7965,7 +7965,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/service/construction_cases.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:06Z"
+    "last_seen_utc": "2026-07-12T16:18:21Z"
   },
   {
     "power": "",
@@ -7981,7 +7981,7 @@
     "model_number": "html",
     "link": "http://en.zoomlion.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:25Z"
+    "last_seen_utc": "2026-07-12T16:18:20Z"
   },
   {
     "power": "",
@@ -7997,7 +7997,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:23Z"
+    "last_seen_utc": "2026-07-12T16:18:18Z"
   },
   {
     "power": "",
@@ -8013,7 +8013,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/news/events.jsp",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:16Z"
+    "last_seen_utc": "2026-07-12T16:18:16Z"
   },
   {
     "power": "",
@@ -8029,7 +8029,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/investor/Investor.htm?name=financial#item02",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:22Z"
+    "last_seen_utc": "2026-07-12T16:18:17Z"
   },
   {
     "power": "",
@@ -8045,7 +8045,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/contact/contact_us.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:10Z"
+    "last_seen_utc": "2026-07-12T16:18:19Z"
   },
   {
     "power": "",
@@ -8061,7 +8061,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/about/career.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:14Z"
+    "last_seen_utc": "2026-07-12T16:18:14Z"
   },
   {
     "power": "",
@@ -8077,7 +8077,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/investor/Investor.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:15Z"
+    "last_seen_utc": "2026-07-12T16:18:25Z"
   },
   {
     "power": "",
@@ -8093,7 +8093,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/news/News.jsp",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:05Z"
+    "last_seen_utc": "2026-07-12T16:18:23Z"
   },
   {
     "power": "",
@@ -8109,7 +8109,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/service/services_offered.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:07Z"
+    "last_seen_utc": "2026-07-12T16:18:12Z"
   },
   {
     "power": "",
@@ -8125,7 +8125,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/service/service_network.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:13Z"
+    "last_seen_utc": "2026-07-12T16:18:15Z"
   },
   {
     "power": "Hybrid",
@@ -8141,7 +8141,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/news/video.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:08Z"
+    "last_seen_utc": "2026-07-12T16:18:27Z"
   },
   {
     "power": "",
@@ -8157,7 +8157,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/service/parts_network.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:21Z"
+    "last_seen_utc": "2026-07-12T16:18:09Z"
   },
   {
     "power": "",
@@ -8173,7 +8173,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/about/social_responsibility.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:19Z"
+    "last_seen_utc": "2026-07-12T16:18:10Z"
   },
   {
     "power": "Hybrid",
@@ -8189,7 +8189,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/service/zoomlion_services.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:11Z"
+    "last_seen_utc": "2026-07-12T16:18:22Z"
   },
   {
     "power": "Hybrid",
@@ -8205,7 +8205,7 @@
     "model_number": "html",
     "link": "https://en.zoomlion.com/about/company_profile.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:12Z"
+    "last_seen_utc": "2026-07-12T16:18:26Z"
   },
   {
     "power": "Hydrogen",
@@ -8429,7 +8429,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/affiliates/?menu=doosan-affiliates/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:40Z"
+    "last_seen_utc": "2026-07-12T16:18:36Z"
   },
   {
     "power": "Hydrogen",
@@ -8477,7 +8477,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/affiliates/?menu=doosan-affiliates",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:55Z"
+    "last_seen_utc": "2026-07-12T16:18:52Z"
   },
   {
     "power": "Hydrogen",
@@ -8493,7 +8493,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/csr/social-responsibility/?menu=support-growth-of-people&tab=support-for-the-growth-of-children-youths",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:47Z"
+    "last_seen_utc": "2026-07-12T16:18:59Z"
   },
   {
     "power": "Hydrogen",
@@ -8509,7 +8509,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/doosan-story/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:46Z"
+    "last_seen_utc": "2026-07-12T16:18:54Z"
   },
   {
     "power": "Hydrogen",
@@ -8525,7 +8525,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/affiliates/?menu=auxiliary-organizations",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:57Z"
+    "last_seen_utc": "2026-07-12T16:19:03Z"
   },
   {
     "power": "Hydrogen",
@@ -8557,7 +8557,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/business-highlights",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:36:17Z"
+    "last_seen_utc": "2026-07-12T16:19:05Z"
   },
   {
     "power": "Hydrogen",
@@ -8589,7 +8589,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/leadership/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:55Z"
+    "last_seen_utc": "2026-07-12T16:18:59Z"
   },
   {
     "power": "Hydrogen",
@@ -8605,7 +8605,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/doosan-story",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:36:05Z"
+    "last_seen_utc": "2026-07-12T16:18:51Z"
   },
   {
     "power": "Hydrogen",
@@ -8653,7 +8653,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:32:28Z"
+    "last_seen_utc": "2026-07-12T16:21:06Z"
   },
   {
     "power": "",
@@ -8765,7 +8765,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/#PRODUCTS",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:36:47Z"
+    "last_seen_utc": "2026-07-12T16:20:49Z"
   },
   {
     "power": "",
@@ -8925,7 +8925,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/leadership",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:09:24Z"
+    "last_seen_utc": "2026-07-12T16:21:29Z"
   },
   {
     "power": "",
@@ -9053,7 +9053,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/media/press-releases/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:32:10Z"
+    "last_seen_utc": "2026-07-12T16:21:21Z"
   },
   {
     "power": "",
@@ -9085,7 +9085,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/test-facilities/",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:58:09Z"
+    "last_seen_utc": "2026-07-12T16:22:34Z"
   },
   {
     "power": "Battery",
@@ -9165,7 +9165,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/general-information/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:10:40Z"
+    "last_seen_utc": "2026-07-12T16:22:55Z"
   },
   {
     "power": "",
@@ -9181,7 +9181,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/online-investor-complaints/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:32:49Z"
+    "last_seen_utc": "2026-07-12T16:22:52Z"
   },
   {
     "power": "",
@@ -9213,7 +9213,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/marketing-network/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:32:25Z"
+    "last_seen_utc": "2026-07-12T16:22:43Z"
   },
   {
     "power": "",
@@ -9277,7 +9277,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/mining-and-construction",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:57:17Z"
+    "last_seen_utc": "2026-07-12T16:22:19Z"
   },
   {
     "power": "",
@@ -9325,7 +9325,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/international-business-division",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:39:09Z"
+    "last_seen_utc": "2026-07-12T16:21:00Z"
   },
   {
     "power": "",
@@ -9517,7 +9517,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/region",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:10Z"
+    "last_seen_utc": "2026-07-12T16:07:04Z"
   },
   {
     "power": "Hybrid",
@@ -9565,7 +9565,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/longwall",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:21:05Z"
+    "last_seen_utc": "2026-07-12T16:07:04Z"
   },
   {
     "power": "Hybrid",
@@ -9645,7 +9645,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-construction/fleet",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:52:16Z"
+    "last_seen_utc": "2026-07-12T16:07:15Z"
   },
   {
     "power": "Hybrid",
@@ -9677,7 +9677,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/newsroom",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:01Z"
+    "last_seen_utc": "2026-07-12T16:07:07Z"
   },
   {
     "power": "Hybrid",
@@ -10141,7 +10141,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/careers/we-as-an-employer/employee-experiences-4294698",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:11Z"
+    "last_seen_utc": "2026-07-12T16:08:23Z"
   },
   {
     "power": "",
@@ -10240,7 +10240,7 @@
     "last_seen_utc": "2026-02-13T01:01:13Z"
   },
   {
-    "power": "Hybrid",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -10253,7 +10253,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/news/exhibitions-and-events/exhibitions-and-events-3782187",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:31Z"
+    "last_seen_utc": "2026-07-12T16:08:35Z"
   },
   {
     "power": "Hybrid",
@@ -10301,10 +10301,10 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/careers/young-professionals-4294668",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:53:44Z"
+    "last_seen_utc": "2026-07-12T16:08:39Z"
   },
   {
-    "power": "Battery",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -10317,7 +10317,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/news/press-contact/press-contact-3782441#contact_company",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:26Z"
+    "last_seen_utc": "2026-07-12T16:08:42Z"
   },
   {
     "power": "Hybrid",
@@ -10333,7 +10333,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/news/social-media/social-media-3782439",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:22:39Z"
+    "last_seen_utc": "2026-07-12T16:08:42Z"
   },
   {
     "power": "",
@@ -10349,7 +10349,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/about-liebherr/history/1949-1960-3781815",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:34Z"
+    "last_seen_utc": "2026-07-12T16:08:33Z"
   },
   {
     "power": "",
@@ -11197,7 +11197,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-ro",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:45Z"
+    "last_seen_utc": "2026-07-12T16:08:51Z"
   },
   {
     "power": "Battery",
@@ -11277,7 +11277,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/fr-ch",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:35Z"
+    "last_seen_utc": "2026-07-12T16:08:49Z"
   },
   {
     "power": "Battery",
@@ -11293,7 +11293,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-ba",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:34Z"
+    "last_seen_utc": "2026-07-12T16:08:57Z"
   },
   {
     "power": "Battery",
@@ -11309,7 +11309,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/de-at",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:42Z"
+    "last_seen_utc": "2026-07-12T16:08:47Z"
   },
   {
     "power": "Battery",
@@ -11405,7 +11405,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-vn",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:28Z"
+    "last_seen_utc": "2026-07-12T16:08:49Z"
   },
   {
     "power": "Battery",
@@ -11421,7 +11421,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/es-ec",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:29Z"
+    "last_seen_utc": "2026-07-12T16:08:52Z"
   },
   {
     "power": "Battery",
@@ -12013,7 +12013,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/powertrain-for-oem/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:09:45Z"
+    "last_seen_utc": "2026-07-12T16:09:33Z"
   },
   {
     "power": "Hydrogen",
@@ -12141,7 +12141,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/explore/sustainability/hvo/",
     "link_date": "",
-    "last_seen_utc": "2026-03-01T15:50:58Z"
+    "last_seen_utc": "2026-07-12T16:09:31Z"
   },
   {
     "power": "Hydrogen",
@@ -12157,7 +12157,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/construction/single-drum-soil-compactors/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:06:49Z"
+    "last_seen_utc": "2026-07-12T16:09:36Z"
   },
   {
     "power": "Hydrogen",
@@ -12189,7 +12189,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/explore/corporate/legal-notice/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:13Z"
+    "last_seen_utc": "2026-07-12T16:09:22Z"
   },
   {
     "power": "Hydrogen",
@@ -12237,7 +12237,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:10Z"
+    "last_seen_utc": "2026-07-12T16:09:31Z"
   },
   {
     "power": "Hydrogen",
@@ -12333,7 +12333,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dl320-7",
     "link_date": "",
-    "last_seen_utc": "2026-03-29T15:46:49Z"
+    "last_seen_utc": "2026-07-12T16:10:18Z"
   },
   {
     "power": "",
@@ -12413,7 +12413,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx100w-7",
     "link_date": "",
-    "last_seen_utc": "2026-03-29T15:46:50Z"
+    "last_seen_utc": "2026-07-12T16:10:22Z"
   },
   {
     "power": "",
@@ -12749,7 +12749,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/parts-and-services/financial-solutions",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:48:10Z"
+    "last_seen_utc": "2026-07-12T16:10:39Z"
   },
   {
     "power": "",
@@ -12781,7 +12781,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dl200-7",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:48:08Z"
+    "last_seen_utc": "2026-07-12T16:10:53Z"
   },
   {
     "power": "",
@@ -12813,7 +12813,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/industries/quarry-and-mining",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:45Z"
+    "last_seen_utc": "2026-07-12T16:10:42Z"
   },
   {
     "power": "Battery",
@@ -12893,7 +12893,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/industries/material-handling",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:08:26Z"
+    "last_seen_utc": "2026-07-12T16:10:55Z"
   },
   {
     "power": "",
@@ -12957,7 +12957,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/transparent-bucket-system",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:56:21Z"
+    "last_seen_utc": "2026-07-12T16:11:05Z"
   },
   {
     "power": "",
@@ -12989,7 +12989,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/fairs-and-events/nordbau-2025",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:54Z"
+    "last_seen_utc": "2026-07-12T16:11:03Z"
   },
   {
     "power": "",
@@ -13021,7 +13021,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dl06v",
     "link_date": "",
-    "last_seen_utc": "2026-02-22T15:57:58Z"
+    "last_seen_utc": "2026-07-12T16:10:35Z"
   },
   {
     "power": "",
@@ -13037,7 +13037,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dl80tl-7",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:43Z"
+    "last_seen_utc": "2026-07-12T16:11:06Z"
   },
   {
     "power": "Battery",
@@ -13069,7 +13069,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/AD/list",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:15Z"
+    "last_seen_utc": "2026-07-12T16:11:18Z"
   },
   {
     "power": "",
@@ -13085,7 +13085,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/view?productsSeq=380",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:26Z"
+    "last_seen_utc": "2026-07-12T16:11:23Z"
   },
   {
     "power": "",
@@ -13101,7 +13101,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/total-search/list?q=STAGE V",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:29Z"
+    "last_seen_utc": "2026-07-12T16:11:32Z"
   },
   {
     "power": "",
@@ -13117,7 +13117,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/agency/overseas?type=part_agcy",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:30Z"
+    "last_seen_utc": "2026-07-12T16:11:28Z"
   },
   {
     "power": "Hydrogen",
@@ -13133,7 +13133,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/inov/sustainability/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:29Z"
+    "last_seen_utc": "2026-07-12T16:11:26Z"
   },
   {
     "power": "",
@@ -13181,7 +13181,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/MG/list",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:51Z"
+    "last_seen_utc": "2026-07-12T16:11:21Z"
   },
   {
     "power": "",
@@ -13197,7 +13197,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/EC/list",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:03Z"
+    "last_seen_utc": "2026-07-12T16:11:24Z"
   },
   {
     "power": "",
@@ -13213,7 +13213,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/gate/contents",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:22Z"
+    "last_seen_utc": "2026-07-12T16:11:20Z"
   },
   {
     "power": "Hydrogen",
@@ -13245,7 +13245,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/crane/truck_crane/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:16Z"
+    "last_seen_utc": "2026-07-12T16:11:48Z"
   },
   {
     "power": "Hydrogen",
@@ -13293,7 +13293,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/solution/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:23Z"
+    "last_seen_utc": "2026-07-12T16:11:45Z"
   },
   {
     "power": "Hydrogen",
@@ -13309,7 +13309,7 @@
     "model_number": "html",
     "link": "https://www.sanyglobal.com/product/excavator/small_excavator/110/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:09:22Z"
+    "last_seen_utc": "2026-07-12T16:11:47Z"
   },
   {
     "power": "Hydrogen",
@@ -13373,7 +13373,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/order/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:58:06Z"
+    "last_seen_utc": "2026-07-12T16:12:11Z"
   },
   {
     "power": "Battery",
@@ -13389,7 +13389,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-detail-121076.htm",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:57:40Z"
+    "last_seen_utc": "2026-07-12T16:12:09Z"
   },
   {
     "power": "Battery",
@@ -13405,7 +13405,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/site/search.htm?keywords=大吨位XCA350L8起重机",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:52Z"
+    "last_seen_utc": "2026-07-12T16:12:13Z"
   },
   {
     "power": "",
@@ -13440,7 +13440,7 @@
     "last_seen_utc": "2026-06-28T16:26:37Z"
   },
   {
-    "power": "",
+    "power": "Battery",
     "oem": "XCMG",
     "country": "China",
     "class_tons": "",
@@ -13453,7 +13453,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1875",
     "link_date": "",
-    "last_seen_utc": "2026-02-13T01:06:01Z"
+    "last_seen_utc": "2026-07-12T16:12:26Z"
   },
   {
     "power": "Battery",
@@ -13773,7 +13773,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/sustainability/modern-slavery",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:12Z"
+    "last_seen_utc": "2026-07-12T16:13:37Z"
   },
   {
     "power": "Battery",
@@ -13789,7 +13789,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/company/intellectual-property-patents",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:57Z"
+    "last_seen_utc": "2026-07-12T16:13:40Z"
   },
   {
     "power": "Battery",
@@ -13821,7 +13821,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/company",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:47Z"
+    "last_seen_utc": "2026-07-12T16:13:39Z"
   },
   {
     "power": "Battery",
@@ -13837,7 +13837,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/equipment-old",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:48:38Z"
+    "last_seen_utc": "2026-07-12T16:13:34Z"
   },
   {
     "power": "",
@@ -13853,7 +13853,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/careers/view-job-openings",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:51:00Z"
+    "last_seen_utc": "2026-07-12T16:13:33Z"
   },
   {
     "power": "Battery",
@@ -13885,7 +13885,7 @@
     "model_number": "html",
     "link": "http://www.xemc.com.cn/product/index/service.html",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:29:21Z"
+    "last_seen_utc": "2026-07-12T16:15:01Z"
   },
   {
     "power": "",
@@ -13917,7 +13917,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/contact/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:32:41Z"
+    "last_seen_utc": "2026-07-12T16:17:03Z"
   },
   {
     "power": "Battery",
@@ -13949,7 +13949,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/about/our-market/yutong-in-africa/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:33:24Z"
+    "last_seen_utc": "2026-07-12T16:17:55Z"
   },
   {
     "power": "",
@@ -14013,7 +14013,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/service/service-network/service-station/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:49Z"
+    "last_seen_utc": "2026-07-12T16:17:19Z"
   },
   {
     "power": "",
@@ -14029,7 +14029,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/AB14.shtml",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:32:52Z"
+    "last_seen_utc": "2026-07-12T16:17:31Z"
   },
   {
     "power": "Hybrid",
@@ -14045,7 +14045,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/e-coach/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:27:29Z"
+    "last_seen_utc": "2026-07-12T16:16:41Z"
   },
   {
     "power": "Hybrid",
@@ -14077,7 +14077,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/about/honor/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:21Z"
+    "last_seen_utc": "2026-07-12T16:17:43Z"
   },
   {
     "power": "Battery",
@@ -14157,7 +14157,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/intro/leadership/?menu=ceo",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:52Z"
+    "last_seen_utc": "2026-07-12T16:18:52Z"
   },
   {
     "power": "Hydrogen",
@@ -14173,7 +14173,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/contact-us/?menu=doosan-Companies",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:59Z"
+    "last_seen_utc": "2026-07-12T16:19:04Z"
   },
   {
     "power": "Hydrogen",
@@ -14253,7 +14253,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/beml-overview/csr/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:31:08Z"
+    "last_seen_utc": "2026-07-12T16:19:26Z"
   },
   {
     "power": "",
@@ -14301,7 +14301,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/#Facilities",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:56:30Z"
+    "last_seen_utc": "2026-07-12T16:20:10Z"
   },
   {
     "power": "",
@@ -14493,7 +14493,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/codes-policies/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:10:46Z"
+    "last_seen_utc": "2026-07-12T16:22:01Z"
   },
   {
     "power": "",
@@ -14541,7 +14541,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/defence-and-aerospace",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:37:02Z"
+    "last_seen_utc": "2026-07-12T16:22:09Z"
   },
   {
     "power": "",
@@ -14573,7 +14573,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/reconciliation-of-share-capital-audit/",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:58:35Z"
+    "last_seen_utc": "2026-07-12T16:21:52Z"
   },
   {
     "power": "",
@@ -14589,7 +14589,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/compliance-certificates/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:21:11Z"
+    "last_seen_utc": "2026-07-12T16:22:49Z"
   },
   {
     "power": "Hybrid",
@@ -14653,7 +14653,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/room-and-pillar",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:40:30Z"
+    "last_seen_utc": "2026-07-12T16:07:14Z"
   },
   {
     "power": "Hybrid",
@@ -14669,7 +14669,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-construction/field",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:06Z"
+    "last_seen_utc": "2026-07-12T16:07:06Z"
   },
   {
     "power": "Hybrid",
@@ -14685,7 +14685,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-construction/design",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:02Z"
+    "last_seen_utc": "2026-07-12T16:07:07Z"
   },
   {
     "power": "Hybrid",
@@ -14797,7 +14797,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-mining/asset-management",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:52:24Z"
+    "last_seen_utc": "2026-07-12T16:07:14Z"
   },
   {
     "power": "Battery",
@@ -14829,7 +14829,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/solutions/drive-technologies-7528024",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:22:25Z"
+    "last_seen_utc": "2026-07-12T16:08:10Z"
   },
   {
     "power": "",
@@ -14896,7 +14896,7 @@
     "last_seen_utc": "2026-02-15T15:53:12Z"
   },
   {
-    "power": "Hybrid",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -14909,7 +14909,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en/usa/usa.html#main-content",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:05:01Z"
+    "last_seen_utc": "2026-07-12T16:08:28Z"
   },
   {
     "power": "Battery",
@@ -14973,10 +14973,10 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/aerospace-and-transportation-systems/liebherr-aerospace-transportation-7173790",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:29Z"
+    "last_seen_utc": "2026-07-12T16:08:40Z"
   },
   {
-    "power": "Hybrid",
+    "power": "",
     "oem": "Liebherr",
     "country": "Germany",
     "class_tons": "",
@@ -14989,7 +14989,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/news/news-3782182",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:24Z"
+    "last_seen_utc": "2026-07-12T16:08:39Z"
   },
   {
     "power": "Hybrid",
@@ -15613,7 +15613,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-au",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:42Z"
+    "last_seen_utc": "2026-07-12T16:08:48Z"
   },
   {
     "power": "Battery",
@@ -15709,7 +15709,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/sys/splash",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:22:58Z"
+    "last_seen_utc": "2026-07-12T16:08:53Z"
   },
   {
     "power": "Battery",
@@ -15773,7 +15773,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/fr-ca",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:38Z"
+    "last_seen_utc": "2026-07-12T16:08:45Z"
   },
   {
     "power": "Hydrogen",
@@ -16109,7 +16109,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/machines/",
     "link_date": "",
-    "last_seen_utc": "2026-03-29T15:45:52Z"
+    "last_seen_utc": "2026-07-12T16:09:31Z"
   },
   {
     "power": "Hydrogen",
@@ -16141,7 +16141,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/parts-and-service/service/machine-health-check/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:22Z"
+    "last_seen_utc": "2026-07-12T16:09:38Z"
   },
   {
     "power": "Hydrogen",
@@ -16157,7 +16157,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/parts-and-service/parts/cab-and-body-parts/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:14Z"
+    "last_seen_utc": "2026-07-12T16:09:37Z"
   },
   {
     "power": "Hydrogen",
@@ -16173,7 +16173,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/logistics/industrial-forklifts/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:09:41Z"
+    "last_seen_utc": "2026-07-12T16:09:37Z"
   },
   {
     "power": "Hydrogen",
@@ -16381,7 +16381,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/fr/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:10:27Z"
+    "last_seen_utc": "2026-07-12T16:10:02Z"
   },
   {
     "power": "",
@@ -16400,7 +16400,7 @@
     "last_seen_utc": "2026-05-03T16:01:23Z"
   },
   {
-    "power": "",
+    "power": "Battery",
     "oem": "Develon",
     "country": "South Korea",
     "class_tons": "",
@@ -16413,7 +16413,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/it/",
     "link_date": "",
-    "last_seen_utc": "2026-03-15T15:42:28Z"
+    "last_seen_utc": "2026-07-12T16:09:54Z"
   },
   {
     "power": "",
@@ -16461,7 +16461,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx20ze",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:45:45Z"
+    "last_seen_utc": "2026-07-12T16:10:11Z"
   },
   {
     "power": "",
@@ -16717,7 +16717,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/products/mini-excavators",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:42Z"
+    "last_seen_utc": "2026-07-12T16:10:44Z"
   },
   {
     "power": "",
@@ -16749,7 +16749,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/da45",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:35Z"
+    "last_seen_utc": "2026-07-12T16:10:59Z"
   },
   {
     "power": "",
@@ -16765,7 +16765,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/industries/earthmoving",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:39Z"
+    "last_seen_utc": "2026-07-12T16:10:50Z"
   },
   {
     "power": "",
@@ -16781,7 +16781,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/parts-and-services/parts-and-products",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:24Z"
+    "last_seen_utc": "2026-07-12T16:10:56Z"
   },
   {
     "power": "",
@@ -16829,7 +16829,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/news/2024-11-01-Rebranded-Develon-Merchandise-Webshop-is-Now-Live",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:23Z"
+    "last_seen_utc": "2026-07-12T16:10:40Z"
   },
   {
     "power": "",
@@ -16941,7 +16941,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/privacy-policy",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:43Z"
+    "last_seen_utc": "2026-07-12T16:11:14Z"
   },
   {
     "power": "Battery",
@@ -16973,7 +16973,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/online/inquiry",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:15Z"
+    "last_seen_utc": "2026-07-12T16:11:18Z"
   },
   {
     "power": "",
@@ -16989,7 +16989,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/products/view?productsSeq=376",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:01Z"
+    "last_seen_utc": "2026-07-12T16:11:28Z"
   },
   {
     "power": "",
@@ -17101,7 +17101,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=32204&erCatId=0&sanCatId=0",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:04Z"
+    "last_seen_utc": "2026-07-12T16:12:49Z"
   },
   {
     "power": "",
@@ -17181,7 +17181,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/aboutus/about.htm",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:53Z"
+    "last_seen_utc": "2026-07-12T16:12:29Z"
   },
   {
     "power": "Battery",
@@ -17197,7 +17197,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/order/?pid=119739",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:57:51Z"
+    "last_seen_utc": "2026-07-12T16:12:22Z"
   },
   {
     "power": "Battery",
@@ -17213,7 +17213,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/sustainability/social-sustainability",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:59:07Z"
+    "last_seen_utc": "2026-07-12T16:13:35Z"
   },
   {
     "power": "Battery",
@@ -17245,7 +17245,7 @@
     "model_number": "HTML",
     "link": "https://www.terex.com/en/investors",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:05Z"
+    "last_seen_utc": "2026-07-12T16:13:36Z"
   },
   {
     "power": "Battery",
@@ -17277,7 +17277,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/company/news",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:58:57Z"
+    "last_seen_utc": "2026-07-12T16:13:37Z"
   },
   {
     "power": "Battery",
@@ -17309,7 +17309,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/products-solutions/equipment#environmentalsolutions",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:10Z"
+    "last_seen_utc": "2026-07-12T16:13:42Z"
   },
   {
     "power": "Battery",
@@ -17325,7 +17325,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/products-solutions/merchandise",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:59:02Z"
+    "last_seen_utc": "2026-07-12T16:13:34Z"
   },
   {
     "power": "Hybrid",
@@ -17357,7 +17357,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/company/sustainability",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:59:01Z"
+    "last_seen_utc": "2026-07-12T16:13:37Z"
   },
   {
     "power": "Hybrid",
@@ -17389,7 +17389,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/footer/sustainability/environmental-sustainability",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:07Z"
+    "last_seen_utc": "2026-07-12T16:13:37Z"
   },
   {
     "power": "",
@@ -17405,7 +17405,7 @@
     "model_number": "html",
     "link": "http://www.xemc.com.cn/company.html",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:23:36Z"
+    "last_seen_utc": "2026-07-12T16:15:06Z"
   },
   {
     "power": "",
@@ -17741,7 +17741,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/indigenisation/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:31:27Z"
+    "last_seen_utc": "2026-07-12T16:22:58Z"
   },
   {
     "power": "Battery",
@@ -17773,7 +17773,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/beml-overview/csr",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:33:09Z"
+    "last_seen_utc": "2026-07-12T16:21:58Z"
   },
   {
     "power": "",
@@ -17805,7 +17805,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/vigilance",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:32:34Z"
+    "last_seen_utc": "2026-07-12T16:21:10Z"
   },
   {
     "power": "",
@@ -17821,7 +17821,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/mining-and-construction/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:31:59Z"
+    "last_seen_utc": "2026-07-12T16:21:14Z"
   },
   {
     "power": "",
@@ -17853,7 +17853,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/contact/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:39:12Z"
+    "last_seen_utc": "2026-07-12T16:22:46Z"
   },
   {
     "power": "",
@@ -17901,7 +17901,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/tenders",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:26:00Z"
+    "last_seen_utc": "2026-07-12T16:21:38Z"
   },
   {
     "power": "",
@@ -17917,7 +17917,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:08Z"
+    "last_seen_utc": "2026-07-12T16:24:04Z"
   },
   {
     "power": "",
@@ -17933,7 +17933,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/#subscribe",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:23:08Z"
+    "last_seen_utc": "2026-07-12T16:24:40Z"
   },
   {
     "power": "Battery",
@@ -17949,7 +17949,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/excavator/chetra-e220-nc/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:19Z"
+    "last_seen_utc": "2026-07-12T16:24:25Z"
   },
   {
     "power": "",
@@ -18029,7 +18029,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/media/kak-dobyvayut-zoloto-na-buldozere-chetra-t35/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:20Z"
+    "last_seen_utc": "2026-07-12T16:24:47Z"
   },
   {
     "power": "",
@@ -18045,7 +18045,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/offers/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:22:58Z"
+    "last_seen_utc": "2026-07-12T16:24:53Z"
   },
   {
     "power": "",
@@ -18061,7 +18061,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/media/demontazh-montazh-kabiny-krana-truboukladchika-chetra-tg-511ya/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:58Z"
+    "last_seen_utc": "2026-07-12T16:24:34Z"
   },
   {
     "power": "",
@@ -18109,7 +18109,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/spares/warehouse/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:58Z"
+    "last_seen_utc": "2026-07-12T16:24:44Z"
   },
   {
     "power": "",
@@ -18173,7 +18173,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/buldozers/chetra-t15/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:40Z"
+    "last_seen_utc": "2026-07-12T16:24:37Z"
   },
   {
     "power": "",
@@ -18237,7 +18237,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/offers/aktsiya-dvoynaya-vygoda-ekonomte-vdvoyne-pri-pokupke-spetstekhniki/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:51Z"
+    "last_seen_utc": "2026-07-12T16:24:32Z"
   },
   {
     "power": "",
@@ -18269,7 +18269,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/projects/",
     "link_date": "",
-    "last_seen_utc": "2026-04-19T16:09:55Z"
+    "last_seen_utc": "2026-07-12T16:24:54Z"
   },
   {
     "power": "",
@@ -18349,7 +18349,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/spares/",
     "link_date": "",
-    "last_seen_utc": "2026-05-03T16:17:54Z"
+    "last_seen_utc": "2026-07-12T16:24:30Z"
   },
   {
     "power": "",
@@ -18381,7 +18381,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/pipelayers/chetra-tg302/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:26Z"
+    "last_seen_utc": "2026-07-12T16:24:10Z"
   },
   {
     "power": "",
@@ -18429,7 +18429,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/komatsu-locator",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:03:44Z"
+    "last_seen_utc": "2026-07-12T16:07:01Z"
   },
   {
     "power": "Hybrid",
@@ -18461,7 +18461,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-construction/office",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:44:11Z"
+    "last_seen_utc": "2026-07-12T16:07:03Z"
   },
   {
     "power": "Hybrid",
@@ -18493,7 +18493,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/dozers",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:03:47Z"
+    "last_seen_utc": "2026-07-12T16:07:10Z"
   },
   {
     "power": "Battery",
@@ -18621,7 +18621,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/refrigerators-freezers/appliances-3033359",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:30Z"
+    "last_seen_utc": "2026-07-12T16:08:37Z"
   },
   {
     "power": "",
@@ -19437,7 +19437,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-iq",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:27Z"
+    "last_seen_utc": "2026-07-12T16:08:46Z"
   },
   {
     "power": "Hybrid",
@@ -20157,7 +20157,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/machines/skid-steer-loaders/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:21Z"
+    "last_seen_utc": "2026-07-12T16:09:21Z"
   },
   {
     "power": "",
@@ -20237,7 +20237,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx63-7",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:47:38Z"
+    "last_seen_utc": "2026-07-12T16:09:56Z"
   },
   {
     "power": "",
@@ -20381,7 +20381,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/industries",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:56:43Z"
+    "last_seen_utc": "2026-07-12T16:11:11Z"
   },
   {
     "power": "Hybrid",
@@ -20477,7 +20477,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx210w-7k",
     "link_date": "",
-    "last_seen_utc": "2026-03-29T15:47:10Z"
+    "last_seen_utc": "2026-07-12T16:11:02Z"
   },
   {
     "power": "",
@@ -20541,7 +20541,7 @@
     "model_number": "html",
     "link": "https://www.hyundai-ce.com/en/inov/productivity/contents",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:57:12Z"
+    "last_seen_utc": "2026-07-12T16:11:24Z"
   },
   {
     "power": "Hydrogen",
@@ -20653,7 +20653,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:26:10Z"
+    "last_seen_utc": "2026-07-12T16:12:53Z"
   },
   {
     "power": "Battery",
@@ -20733,7 +20733,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/search?indexCatalogue=core-index&searchQuery=Sustainability",
     "link_date": "",
-    "last_seen_utc": "2026-04-26T15:59:37Z"
+    "last_seen_utc": "2026-07-12T16:13:41Z"
   },
   {
     "power": "Battery",
@@ -20861,7 +20861,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/products/T12E.shtml",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:42Z"
+    "last_seen_utc": "2026-07-12T16:16:52Z"
   },
   {
     "power": "",
@@ -21037,7 +21037,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/accessibility-statement/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:38:19Z"
+    "last_seen_utc": "2026-07-12T16:21:55Z"
   },
   {
     "power": "",
@@ -21053,7 +21053,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/rail-and-metro",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:37:59Z"
+    "last_seen_utc": "2026-07-12T16:21:25Z"
   },
   {
     "power": "",
@@ -21117,7 +21117,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/media-releases",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:31:30Z"
+    "last_seen_utc": "2026-07-12T16:22:15Z"
   },
   {
     "power": "",
@@ -21165,7 +21165,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/company/service/",
     "link_date": "",
-    "last_seen_utc": "2026-04-19T16:09:43Z"
+    "last_seen_utc": "2026-07-12T16:24:35Z"
   },
   {
     "power": "",
@@ -21181,7 +21181,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/wheels/chetra-pk5/",
     "link_date": "",
-    "last_seen_utc": "2026-05-03T16:17:31Z"
+    "last_seen_utc": "2026-07-12T16:24:14Z"
   },
   {
     "power": "",
@@ -21245,7 +21245,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/personal-data/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:23:12Z"
+    "last_seen_utc": "2026-07-12T16:24:28Z"
   },
   {
     "power": "",
@@ -21309,7 +21309,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/offers/truboukladchik-chetra-teper-so-skidkoy/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:10Z"
+    "last_seen_utc": "2026-07-12T16:24:56Z"
   },
   {
     "power": "",
@@ -21325,7 +21325,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/buldozers/chetra-t11/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:52Z"
+    "last_seen_utc": "2026-07-12T16:24:16Z"
   },
   {
     "power": "",
@@ -21389,7 +21389,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/company/history/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:43Z"
+    "last_seen_utc": "2026-07-12T16:24:23Z"
   },
   {
     "power": "",
@@ -21421,7 +21421,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/contacts/dealers/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:17Z"
+    "last_seen_utc": "2026-07-12T16:24:21Z"
   },
   {
     "power": "",
@@ -21533,7 +21533,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/products/equipment/draglines",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:21:07Z"
+    "last_seen_utc": "2026-07-12T16:07:01Z"
   },
   {
     "power": "Hybrid",
@@ -22333,7 +22333,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-bh",
     "link_date": "",
-    "last_seen_utc": "2026-05-03T16:00:12Z"
+    "last_seen_utc": "2026-07-12T16:08:50Z"
   },
   {
     "power": "Battery",
@@ -22669,7 +22669,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/attachments/buckets/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:21Z"
+    "last_seen_utc": "2026-07-12T16:09:27Z"
   },
   {
     "power": "Hydrogen",
@@ -22733,7 +22733,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/machines/pothole-pro/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:16Z"
+    "last_seen_utc": "2026-07-12T16:09:29Z"
   },
   {
     "power": "Hydrogen",
@@ -22749,7 +22749,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/waste-and-recycling/wheel-loaders/",
     "link_date": "",
-    "last_seen_utc": "2026-03-08T15:37:28Z"
+    "last_seen_utc": "2026-07-12T16:09:23Z"
   },
   {
     "power": "Hydrogen",
@@ -22861,7 +22861,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx210lc-7",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:47:28Z"
+    "last_seen_utc": "2026-07-12T16:10:26Z"
   },
   {
     "power": "",
@@ -22893,7 +22893,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx55r",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:49Z"
+    "last_seen_utc": "2026-07-12T16:09:46Z"
   },
   {
     "power": "",
@@ -23021,7 +23021,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx170w-7k",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:36Z"
+    "last_seen_utc": "2026-07-12T16:10:36Z"
   },
   {
     "power": "",
@@ -23085,7 +23085,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/products/material-handlers",
     "link_date": "",
-    "last_seen_utc": "2026-05-03T16:02:15Z"
+    "last_seen_utc": "2026-07-12T16:10:45Z"
   },
   {
     "power": "",
@@ -23149,7 +23149,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1870&erCatId=0&sanCatId=0",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:09:52Z"
+    "last_seen_utc": "2026-07-12T16:12:16Z"
   },
   {
     "power": "",
@@ -23245,7 +23245,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/technology/new-energy-buses/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:26:41Z"
+    "last_seen_utc": "2026-07-12T16:17:07Z"
   },
   {
     "power": "Battery",
@@ -23421,7 +23421,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:38:39Z"
+    "last_seen_utc": "2026-07-12T16:21:03Z"
   },
   {
     "power": "",
@@ -23437,7 +23437,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/tenders/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:11:06Z"
+    "last_seen_utc": "2026-07-12T16:22:05Z"
   },
   {
     "power": "",
@@ -23453,7 +23453,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/cmd-interviews",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T17:10:05Z"
+    "last_seen_utc": "2026-07-12T16:22:40Z"
   },
   {
     "power": "",
@@ -23501,7 +23501,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/company/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:48Z"
+    "last_seen_utc": "2026-07-12T16:24:48Z"
   },
   {
     "power": "",
@@ -23533,7 +23533,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/wheels/chetra-tk-25/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:57Z"
+    "last_seen_utc": "2026-07-12T16:24:20Z"
   },
   {
     "power": "",
@@ -23549,7 +23549,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/spares/2d-katalog/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:29:00Z"
+    "last_seen_utc": "2026-07-12T16:24:45Z"
   },
   {
     "power": "",
@@ -23725,7 +23725,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/media/skolko-dlitsya-komandirovka-servisnogo-spetsialista-chetra/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:23:21Z"
+    "last_seen_utc": "2026-07-12T16:24:12Z"
   },
   {
     "power": "Battery",
@@ -23741,7 +23741,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/spares/3d-new/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:23:05Z"
+    "last_seen_utc": "2026-07-12T16:24:27Z"
   },
   {
     "power": "Hybrid",
@@ -24269,7 +24269,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en/applications",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:43:26Z"
+    "last_seen_utc": "2026-07-12T16:08:55Z"
   },
   {
     "power": "Battery",
@@ -24301,7 +24301,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-in/contact/nepal",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:23:01Z"
+    "last_seen_utc": "2026-07-12T16:08:53Z"
   },
   {
     "power": "Battery",
@@ -24317,7 +24317,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-na",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:37Z"
+    "last_seen_utc": "2026-07-12T16:08:56Z"
   },
   {
     "power": "Battery",
@@ -24365,7 +24365,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-ca",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:40Z"
+    "last_seen_utc": "2026-07-12T16:08:55Z"
   },
   {
     "power": "Battery",
@@ -24381,7 +24381,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/pt-mz",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:37Z"
+    "last_seen_utc": "2026-07-12T16:08:49Z"
   },
   {
     "power": "Battery",
@@ -24813,7 +24813,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/s-class-buckets-severe-rock-duty",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:11Z"
+    "last_seen_utc": "2026-07-12T16:10:19Z"
   },
   {
     "power": "",
@@ -24893,7 +24893,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/company",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:56Z"
+    "last_seen_utc": "2026-07-12T16:10:30Z"
   },
   {
     "power": "",
@@ -24973,7 +24973,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1001001868&erCatId=0&sanCatId=0",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:58:13Z"
+    "last_seen_utc": "2026-07-12T16:12:47Z"
   },
   {
     "power": "",
@@ -25293,7 +25293,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/buldozers/chetra-t25/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:55Z"
+    "last_seen_utc": "2026-07-12T16:24:39Z"
   },
   {
     "power": "",
@@ -25405,7 +25405,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/services-and-support",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:10:15Z"
+    "last_seen_utc": "2026-07-12T16:07:14Z"
   },
   {
     "power": "Battery",
@@ -26269,7 +26269,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/electric-solutions/articulated-booms/",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:44:55Z"
+    "last_seen_utc": "2026-07-12T16:09:25Z"
   },
   {
     "power": "Hydrogen",
@@ -26285,7 +26285,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/explore/corporate/corporate-statements-and-certification/",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:58Z"
+    "last_seen_utc": "2026-07-12T16:09:30Z"
   },
   {
     "power": "Hydrogen",
@@ -26509,7 +26509,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dd100",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:19:53Z"
+    "last_seen_utc": "2026-07-12T16:10:32Z"
   },
   {
     "power": "Battery",
@@ -26589,7 +26589,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx17z-7",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:25:26Z"
+    "last_seen_utc": "2026-07-12T16:10:48Z"
   },
   {
     "power": "",
@@ -26733,7 +26733,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1707",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:26:41Z"
+    "last_seen_utc": "2026-07-12T16:12:32Z"
   },
   {
     "power": "",
@@ -26957,7 +26957,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/media/priglashenie-na-vystavku-ugol-rossii-i-mayning-2024-chetra-chetra-kuzbass/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:45Z"
+    "last_seen_utc": "2026-07-12T16:24:51Z"
   },
   {
     "power": "",
@@ -26989,7 +26989,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/spares/khodovye-sistemy/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:34Z"
+    "last_seen_utc": "2026-07-12T16:24:42Z"
   },
   {
     "power": "Hybrid",
@@ -27693,7 +27693,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/electric-solutions/site-dumpers/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:24:15Z"
+    "last_seen_utc": "2026-07-12T16:09:38Z"
   },
   {
     "power": "Hydrogen",
@@ -27821,7 +27821,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/construction/mini-excavators/",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:06:47Z"
+    "last_seen_utc": "2026-07-12T16:09:21Z"
   },
   {
     "power": "Hydrogen",
@@ -28045,7 +28045,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/product/pro-list.htm?catId=1001001868",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:47:34Z"
+    "last_seen_utc": "2026-07-12T16:12:20Z"
   },
   {
     "power": "",
@@ -28112,7 +28112,7 @@
     "last_seen_utc": "2026-06-28T16:27:46Z"
   },
   {
-    "power": "Battery",
+    "power": "",
     "oem": "Yutong",
     "country": "China",
     "class_tons": "",
@@ -28125,7 +28125,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/sustainability/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:32:52Z"
+    "last_seen_utc": "2026-07-12T16:17:35Z"
   },
   {
     "power": "Battery",
@@ -28141,7 +28141,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/technology/long-life/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:33:28Z"
+    "last_seen_utc": "2026-07-12T16:17:58Z"
   },
   {
     "power": "Hybrid",
@@ -28205,7 +28205,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/press-center/media/kak-rabotayut-servismeny-chetra-ot-khabarovska-do-sakhalina-ot-magadana-do-kamchatki/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:47Z"
+    "last_seen_utc": "2026-07-12T16:24:06Z"
   },
   {
     "power": "",
@@ -28237,7 +28237,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/catalog/excavator/chetra-e400/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:41:32Z"
+    "last_seen_utc": "2026-07-12T16:24:18Z"
   },
   {
     "power": "",
@@ -28285,7 +28285,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-mining/drilling-and-blasting",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:21:06Z"
+    "last_seen_utc": "2026-07-12T16:07:12Z"
   },
   {
     "power": "Hybrid",
@@ -28317,7 +28317,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/technology/smart-construction/3d-machine-guidance",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:44:14Z"
+    "last_seen_utc": "2026-07-12T16:07:08Z"
   },
   {
     "power": "Hybrid",
@@ -28333,7 +28333,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/transparency-in-coverage",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:20:33Z"
+    "last_seen_utc": "2026-07-12T16:07:09Z"
   },
   {
     "power": "Hybrid",
@@ -28397,7 +28397,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/suppliers",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:07Z"
+    "last_seen_utc": "2026-07-12T16:07:08Z"
   },
   {
     "power": "Hybrid",
@@ -28429,7 +28429,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/merchandise",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:21:05Z"
+    "last_seen_utc": "2026-07-12T16:07:02Z"
   },
   {
     "power": "Hybrid",
@@ -28749,7 +28749,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en/products",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:47Z"
+    "last_seen_utc": "2026-07-12T16:08:47Z"
   },
   {
     "power": "Battery",
@@ -29005,7 +29005,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/products/machines/hydradig/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:24:12Z"
+    "last_seen_utc": "2026-07-12T16:09:22Z"
   },
   {
     "power": "Hydrogen",
@@ -29053,7 +29053,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/explore/insight/news/?page=2",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:07:01Z"
+    "last_seen_utc": "2026-07-12T16:09:35Z"
   },
   {
     "power": "Hydrogen",
@@ -29069,7 +29069,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/electric-solutions/telescopic-handlers/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:10Z"
+    "last_seen_utc": "2026-07-12T16:09:39Z"
   },
   {
     "power": "Hydrogen",
@@ -29373,7 +29373,7 @@
     "model_number": "html",
     "link": "https://en.yutong.com/service/service-philosophy/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:28:34Z"
+    "last_seen_utc": "2026-07-12T16:16:17Z"
   },
   {
     "power": "",
@@ -29517,7 +29517,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/careers",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:52:26Z"
+    "last_seen_utc": "2026-07-12T16:07:15Z"
   },
   {
     "power": "Hybrid",
@@ -30061,7 +30061,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/construction/vibratory-tandem-rollers/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:17Z"
+    "last_seen_utc": "2026-07-12T16:09:33Z"
   },
   {
     "power": "Hydrogen",
@@ -30445,7 +30445,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/terms-of-use",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:09:58Z"
+    "last_seen_utc": "2026-07-12T16:07:11Z"
   },
   {
     "power": "Hybrid",
@@ -30861,7 +30861,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-nz",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:44Z"
+    "last_seen_utc": "2026-07-12T16:08:50Z"
   },
   {
     "power": "Hydrogen",
@@ -31165,7 +31165,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en-in/home",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:15Z"
+    "last_seen_utc": "2026-07-12T16:13:32Z"
   },
   {
     "power": "Battery",
@@ -31197,7 +31197,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/en/home",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:58:57Z"
+    "last_seen_utc": "2026-07-12T16:13:35Z"
   },
   {
     "power": "",
@@ -31245,7 +31245,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/sitemap",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:21:06Z"
+    "last_seen_utc": "2026-07-12T16:07:13Z"
   },
   {
     "power": "Hybrid",
@@ -31277,7 +31277,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/social-media-channels",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:10Z"
+    "last_seen_utc": "2026-07-12T16:07:10Z"
   },
   {
     "power": "",
@@ -31949,7 +31949,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/pt-br/home",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:27:47Z"
+    "last_seen_utc": "2026-07-12T16:13:39Z"
   },
   {
     "power": "Battery",
@@ -32077,7 +32077,7 @@
     "model_number": "html",
     "link": "https://www.bemlindia.in/closure-of-trading-window/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:38:56Z"
+    "last_seen_utc": "2026-07-12T16:22:22Z"
   },
   {
     "power": "Battery",
@@ -32109,7 +32109,7 @@
     "model_number": "html",
     "link": "https://chetra.ru/company/export/",
     "link_date": "",
-    "last_seen_utc": "2026-05-17T16:28:42Z"
+    "last_seen_utc": "2026-07-12T16:24:08Z"
   },
   {
     "power": "Hybrid",
@@ -33037,7 +33037,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/group/annual-reports/annual-report-2025/home-8750848",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:07Z"
+    "last_seen_utc": "2026-07-12T16:08:17Z"
   },
   {
     "power": "",
@@ -33325,7 +33325,7 @@
     "model_number": "html",
     "link": "https://www.epiroc.com/en-kw",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:28Z"
+    "last_seen_utc": "2026-07-12T16:08:47Z"
   },
   {
     "power": "Hydrogen",
@@ -33581,7 +33581,7 @@
     "model_number": "html",
     "link": "https://www.terex.com/fr/home",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:22:13Z"
+    "last_seen_utc": "2026-07-12T16:13:38Z"
   },
   {
     "power": "Hybrid",
@@ -33597,7 +33597,7 @@
     "model_number": "HTML",
     "link": "https://www.terex.com/en/footer/company/press-releases",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:48:50Z"
+    "last_seen_utc": "2026-07-12T16:13:40Z"
   },
   {
     "power": "Battery",
@@ -33645,7 +33645,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/cookie-policy",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:40:35Z"
+    "last_seen_utc": "2026-07-12T16:07:05Z"
   },
   {
     "power": "Hybrid",
@@ -33677,7 +33677,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/industries",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:14Z"
+    "last_seen_utc": "2026-07-12T16:07:23Z"
   },
   {
     "power": "Hybrid",
@@ -33693,7 +33693,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/products",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:17Z"
+    "last_seen_utc": "2026-07-12T16:07:20Z"
   },
   {
     "power": "Hybrid",
@@ -33709,7 +33709,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/code-of-business-conduct",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:20Z"
+    "last_seen_utc": "2026-07-12T16:07:17Z"
   },
   {
     "power": "Hybrid",
@@ -33725,7 +33725,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/privacy-notices-and-policies",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:21Z"
+    "last_seen_utc": "2026-07-12T16:07:21Z"
   },
   {
     "power": "Hybrid",
@@ -33741,7 +33741,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/careers",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:14Z"
+    "last_seen_utc": "2026-07-12T16:07:24Z"
   },
   {
     "power": "Hybrid",
@@ -33757,7 +33757,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/about",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:15Z"
+    "last_seen_utc": "2026-07-12T16:07:26Z"
   },
   {
     "power": "Hybrid",
@@ -33773,7 +33773,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/region",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:18Z"
+    "last_seen_utc": "2026-07-12T16:07:20Z"
   },
   {
     "power": "Hybrid",
@@ -33789,7 +33789,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/social-media-channels",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:23Z"
+    "last_seen_utc": "2026-07-12T16:07:22Z"
   },
   {
     "power": "Hybrid",
@@ -33805,7 +33805,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/komatsu-locator",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:16Z"
+    "last_seen_utc": "2026-07-12T16:07:22Z"
   },
   {
     "power": "Hybrid",
@@ -33821,7 +33821,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/contact-us",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:19Z"
+    "last_seen_utc": "2026-07-12T16:07:19Z"
   },
   {
     "power": "Hybrid",
@@ -33837,7 +33837,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/daichi-magazine",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:18Z"
+    "last_seen_utc": "2026-07-12T16:07:18Z"
   },
   {
     "power": "Hybrid",
@@ -33853,7 +33853,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/technology",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:17Z"
+    "last_seen_utc": "2026-07-12T16:07:24Z"
   },
   {
     "power": "Hybrid",
@@ -33869,7 +33869,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/competitive-comparison",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:16Z"
+    "last_seen_utc": "2026-07-12T16:07:25Z"
   },
   {
     "power": "Hybrid",
@@ -33885,7 +33885,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/newsroom",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:20Z"
+    "last_seen_utc": "2026-07-12T16:07:20Z"
   },
   {
     "power": "Hybrid",
@@ -33901,7 +33901,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/terms-and-conditions",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:21Z"
+    "last_seen_utc": "2026-07-12T16:07:21Z"
   },
   {
     "power": "Hybrid",
@@ -33917,7 +33917,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/request-a-quote",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:13Z"
+    "last_seen_utc": "2026-07-12T16:07:25Z"
   },
   {
     "power": "Hybrid",
@@ -33933,7 +33933,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/services",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:15Z"
+    "last_seen_utc": "2026-07-12T16:07:16Z"
   },
   {
     "power": "Hybrid",
@@ -33949,7 +33949,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/products/spare-parts",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:22Z"
+    "last_seen_utc": "2026-07-12T16:07:23Z"
   },
   {
     "power": "Hybrid",
@@ -33965,7 +33965,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:13Z"
+    "last_seen_utc": "2026-07-12T16:07:26Z"
   },
   {
     "power": "Hybrid",
@@ -33981,7 +33981,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-ae/cookie-policy",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:20Z"
+    "last_seen_utc": "2026-07-12T16:07:17Z"
   },
   {
     "power": "Hybrid",
@@ -33997,7 +33997,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en/news/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:22Z"
+    "last_seen_utc": "2026-07-12T16:07:19Z"
   },
   {
     "power": "Hybrid",
@@ -34013,7 +34013,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en/news/#id=menu-country-selector",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:15Z"
+    "last_seen_utc": "2026-07-12T16:07:18Z"
   },
   {
     "power": "Battery",
@@ -34365,7 +34365,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/news/2026-04-08-New-Arrivals-at-the-Develon-Merchandise-Store",
     "link_date": "",
-    "last_seen_utc": "2026-05-24T16:15:27Z"
+    "last_seen_utc": "2026-07-12T16:11:08Z"
   },
   {
     "power": "",
@@ -34381,7 +34381,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/products/attachments",
     "link_date": "",
-    "last_seen_utc": "2026-05-10T16:08:19Z"
+    "last_seen_utc": "2026-07-12T16:11:12Z"
   },
   {
     "power": "",
@@ -34525,7 +34525,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/mining-equipment/equipment/mining-excavators/r9100-g8-case-study-8873149",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:22:23Z"
+    "last_seen_utc": "2026-07-12T16:08:14Z"
   },
   {
     "power": "",
@@ -34861,7 +34861,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/news/2026-05-12-Develon-Expands-Dozer-Line-up-with-New-DD100-for-Precision-Grading",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:56:42Z"
+    "last_seen_utc": "2026-07-12T16:11:01Z"
   },
   {
     "power": "Hydrogen",
@@ -35325,7 +35325,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/buy/finance-options/fixed-rate-hire-purchase/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:24:15Z"
+    "last_seen_utc": "2026-07-12T16:09:36Z"
   },
   {
     "power": "Hydrogen",
@@ -35725,7 +35725,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/explore/engage/contact-us/",
     "link_date": "",
-    "last_seen_utc": "2026-05-31T16:23:39Z"
+    "last_seen_utc": "2026-07-12T16:09:32Z"
   },
   {
     "power": "",
@@ -36013,7 +36013,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/machines/dx400hd-9",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:24:50Z"
+    "last_seen_utc": "2026-07-12T16:10:03Z"
   },
   {
     "power": "",
@@ -36029,7 +36029,7 @@
     "model_number": "html",
     "link": "https://eu.develon-ce.com/en/news/2026-06-02-Develon-Wins-SaMoTer-Innovation-Award-with-E-Stop",
     "link_date": "",
-    "last_seen_utc": "2026-06-07T16:46:32Z"
+    "last_seen_utc": "2026-07-12T16:10:38Z"
   },
   {
     "power": "Battery",
@@ -36253,7 +36253,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/explore/insight/blogs/",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:38Z"
+    "last_seen_utc": "2026-07-12T16:09:11Z"
   },
   {
     "power": "Hydrogen",
@@ -36333,7 +36333,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/explore/insight/livelink/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:50Z"
+    "last_seen_utc": "2026-07-12T16:09:02Z"
   },
   {
     "power": "Hydrogen",
@@ -36365,7 +36365,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/electric-solutions/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:18:02Z"
+    "last_seen_utc": "2026-07-12T16:09:17Z"
   },
   {
     "power": "Hydrogen",
@@ -36509,7 +36509,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/landscaping/",
     "link_date": "",
-    "last_seen_utc": "2026-06-14T16:46:47Z"
+    "last_seen_utc": "2026-07-12T16:09:00Z"
   },
   {
     "power": "Hydrogen",
@@ -36653,7 +36653,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/construction/telescopic-loaders/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:01Z"
+    "last_seen_utc": "2026-07-12T16:09:06Z"
   },
   {
     "power": "Hydrogen",
@@ -36781,7 +36781,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/explore/knowledge/faqs/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:23Z"
+    "last_seen_utc": "2026-07-12T16:09:26Z"
   },
   {
     "power": "",
@@ -37213,7 +37213,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/explore/corporate/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:53Z"
+    "last_seen_utc": "2026-07-12T16:09:11Z"
   },
   {
     "power": "Hydrogen",
@@ -37261,7 +37261,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/explore/insight/news/2026/01/new-year-boost-as-jcb-wins-205-million-military-contract/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:56Z"
+    "last_seen_utc": "2026-07-12T16:09:08Z"
   },
   {
     "power": "Hydrogen",
@@ -37277,7 +37277,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/landscaping/hydradig/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:54:58Z"
+    "last_seen_utc": "2026-07-12T16:09:10Z"
   },
   {
     "power": "Hydrogen",
@@ -37405,7 +37405,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/explore/knowledge/quick-start-guides/",
     "link_date": "",
-    "last_seen_utc": "2026-06-21T16:55:04Z"
+    "last_seen_utc": "2026-07-12T16:09:13Z"
   },
   {
     "power": "Hydrogen",
@@ -37661,7 +37661,7 @@
     "model_number": "html",
     "link": "https://www.doosan.com/en/media-center/press-release_view?id=20172802",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:29:37Z"
+    "last_seen_utc": "2026-07-12T16:18:39Z"
   },
   {
     "power": "Hybrid",
@@ -37677,7 +37677,7 @@
     "model_number": "HTML",
     "link": "https://www.komatsu.com/en-us/blog/2026/komatsus-advanced-technician-competition",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:16:11Z"
+    "last_seen_utc": "2026-07-12T16:07:06Z"
   },
   {
     "power": "Hybrid",
@@ -37885,7 +37885,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/agriculture/skid-steer-loaders/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:43Z"
+    "last_seen_utc": "2026-07-12T16:09:15Z"
   },
   {
     "power": "Hydrogen",
@@ -37917,7 +37917,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/parts-and-service/parts/chassis-and-undercarriage/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:44Z"
+    "last_seen_utc": "2026-07-12T16:09:03Z"
   },
   {
     "power": "Hydrogen",
@@ -37965,7 +37965,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/agriculture/agricultural-tractors/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:45Z"
+    "last_seen_utc": "2026-07-12T16:09:05Z"
   },
   {
     "power": "Hydrogen",
@@ -38029,7 +38029,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/products/machines/pothole-pro/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:59Z"
+    "last_seen_utc": "2026-07-12T16:09:14Z"
   },
   {
     "power": "Hydrogen",
@@ -38061,7 +38061,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/explore/sustainability/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:49Z"
+    "last_seen_utc": "2026-07-12T16:08:59Z"
   },
   {
     "power": "Hydrogen",
@@ -38093,7 +38093,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/landscaping/teleskid/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:55Z"
+    "last_seen_utc": "2026-07-12T16:09:02Z"
   },
   {
     "power": "Hydrogen",
@@ -38125,7 +38125,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/construction/rotating-telehandlers/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:23:56Z"
+    "last_seen_utc": "2026-07-12T16:09:01Z"
   },
   {
     "power": "Hydrogen",
@@ -38189,7 +38189,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-GB/industries/construction/generators/",
     "link_date": "",
-    "last_seen_utc": "2026-06-28T16:24:08Z"
+    "last_seen_utc": "2026-07-12T16:09:34Z"
   },
   {
     "power": "Hydrogen",
@@ -38237,7 +38237,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/solution/urban-infrastructure.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:20:47Z"
+    "last_seen_utc": "2026-07-12T16:12:50Z"
   },
   {
     "power": "Battery",
@@ -38525,7 +38525,7 @@
     "model_number": "html",
     "link": "https://www.liebherr.com/en-us/n/liebherr-expands-its-portfolio-for-soil-mixing-applications-mixing-cutter-lmc-80-272768-3782185",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:27Z"
+    "last_seen_utc": "2026-07-12T16:08:26Z"
   },
   {
     "power": "",
@@ -38685,7 +38685,7 @@
     "model_number": "html",
     "link": "https://www.jcb.com/en-US/industries/construction/pothole-pro/",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:17:58Z"
+    "last_seen_utc": "2026-07-12T16:09:16Z"
   },
   {
     "power": "Hydrogen",
@@ -38957,7 +38957,7 @@
     "model_number": "html",
     "link": "https://www.xcmg.com/solution/agricultural-operations.htm",
     "link_date": "",
-    "last_seen_utc": "2026-07-05T16:21:10Z"
+    "last_seen_utc": "2026-07-12T16:12:35Z"
   },
   {
     "power": "Battery",
@@ -39022,5 +39022,885 @@
     "link": "https://www.doosan.com/en/media-center/press-release_view?id=20172799",
     "link_date": "",
     "last_seen_utc": "2026-07-05T16:29:30Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/liebherr-transportation-systems-upgrades-service-center-in-canada-273152-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:20Z"
+  },
+  {
+    "power": "",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/bct-gdynia-expands-container-capacity-with-two-liebherr-lhm-550-273280-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:24Z"
+  },
+  {
+    "power": "",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/focus-on-attachments-and-quick-coupling-systems-four-essential-liebherr-solutions-for-scrap-handling-and-recycling-273089-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:30Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/rope-suspended-leader-with-hydraulic-hammer-for-piling-work-272065-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:31Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/liebherr-transportation-systems-upgrades-service-center-in-canada-273152-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:36Z"
+  },
+  {
+    "power": "",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/bct-gdynia-expands-container-capacity-with-two-liebherr-lhm-550-273280-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:39Z"
+  },
+  {
+    "power": "",
+    "oem": "Liebherr",
+    "country": "Germany",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.liebherr.com/en-us/n/focus-on-attachments-and-quick-coupling-systems-four-essential-liebherr-solutions-for-scrap-handling-and-recycling-273089-3782185",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:42Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/industries/landscaping/dumpsters/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:08:59Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/campaigns/2026/compact-range/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:04Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/explore/engage/careers/san-antonio-careers/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:04Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/products/attachments/quickhitches/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:05Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/explore/knowledge/faqs/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:07Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/buy/programs/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:08Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/industries/agriculture/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:09Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/products/attachments/breakers/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:12Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/products/machines/compact-track-loaders/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:12Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/explore/sustainability/road-to-zero/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:13Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/industries/construction/generators/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:16Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-US/products/attachments/shovels/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:18Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-GB/explore/insight/news/?page=41",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:24Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-GB/campaigns/jcb-hydromax/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:25Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-GB/industries/construction/skid-steer-loaders/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:28Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "JCB",
+    "country": "UK",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.jcb.com/en-GB/explore/insight/news/2026/06/jcb-parts-online-passes-50000-product-milestone/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:09:28Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/concrete_machinery/truck-mounted_concrete_pump/15/724/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:40Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/road_machinery/roller/51/282/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:40Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/press_releases/4875/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:42Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/cases/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:43Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/port_machinery/reach_stacker/58/146/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:44Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/maintenance/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:45Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/crane/crawler_crane/101/555/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:50Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/excavator/large_excavator/115/847/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:52Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/cases/list-13/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:52Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/road_machinery/motor_grader/37/433/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:53Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/road_machinery/roller/51/281/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:54Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/cases/list-9/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:55Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/press_releases/4876/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:56Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/press_releases/4878/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:11:59Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/mysany/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:00Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/port_machinery/reach_stacker/58/538/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:01Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/product/concrete_machinery/truck-mounted_concrete_pump/14/400/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:02Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "SANY",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.sanyglobal.com/cases/list-22/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:03Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/product/pro-detail-138517.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:08Z"
+  },
+  {
+    "power": "",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com//aboutus/previewnews-detail-1128869.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:17Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/solution/building-construction.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:19Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/product/pro-detail-138515.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:23Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/product/pro-detail-138520.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:25Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/solution/wind-power.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:38Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/aboutus/news-detail-1128875.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:40Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/aboutus/news-detail-1128871.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:41Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "XCMG",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Wheel loader",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://www.xcmg.com/product/pro-detail-138523.htm",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:12:52Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "Yutong",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://en.yutong.com/sustainability2026/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:17:25Z"
+  },
+  {
+    "power": "Hydrogen",
+    "oem": "Yutong",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://en.yutong.com/sustainability/environmental/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:17:39Z"
+  },
+  {
+    "power": "Battery",
+    "oem": "Yutong",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://en.yutong.com/pressmedia/news/2068976171399385088.shtml",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:17:48Z"
+  },
+  {
+    "power": "",
+    "oem": "Yutong",
+    "country": "China",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://en.yutong.com/sustainability/governance/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:18:00Z"
+  },
+  {
+    "power": "",
+    "oem": "Chetra",
+    "country": "Russia",
+    "class_tons": "",
+    "engine_power_kw": "",
+    "blade_size": "",
+    "bucket_size_m3": "",
+    "type": "Excavator",
+    "year_of_release": "",
+    "development_status": "",
+    "model_number": "html",
+    "link": "https://chetra.ru/press-center/media/servisnaya-sluzhba-chetra-ot-rossii-do-afriki/",
+    "link_date": "",
+    "last_seen_utc": "2026-07-12T16:24:50Z"
   }
 ]
